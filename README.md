@@ -12,9 +12,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am PRASHANT </h1>
 <h3 align="center" color="blue">Aspiring Data Scientist </h3>
 <p align="center">
- <a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="50" width="50" /></a>  
- <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO4xwBJMxWoUfPSiAeN6KgzLx2WJFDYTXVQ&usqp=CAU" height="50" width="50" /></a>
- <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="45" width="50" /></a>
+ <a href="https://www.linkedin.com/in/prashant-959941166/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="50" width="50" /></a>  
+ <a href = "https://github.com/prashant3110/"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO4xwBJMxWoUfPSiAeN6KgzLx2WJFDYTXVQ&usqp=CAU" height="50" width="50" /></a>
+ <a href = "mailto: prashantchauhan3110@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="45" width="50" /></a>
 </p>
 </p>
 
