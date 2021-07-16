@@ -47,7 +47,7 @@
    <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">&nbsp;
    <img height="50" src="https://github.com/Kushal997-das/Kushal997-das/blob/80f47f81e4d4ef64f675e20e2cfc00d53f0fdedd/Profile%20generator/c-original.svg">&nbsp;
    <img height="50" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/cplusplus-original.svg">&nbsp;
-   <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg">
+   <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg">&nbsp;
    <img height="50" src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg">&nbsp;
    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png">&nbsp;
    <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png">&nbsp;
@@ -71,8 +71,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant3110&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=prashant3110&show_icons=true&locale=en&theme=blue-green" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
-
-
 <hr>
 
 
