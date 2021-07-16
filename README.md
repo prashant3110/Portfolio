@@ -32,7 +32,7 @@
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="60px">&nbsp;*****About me ....*****
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">&nbsp;*****About me ....*****
 
 ✔ I’m currently learning about **Data Science**🥰<br>
 ✔ Selected in **AWS Machine Learning Scholarship Program**<br>
@@ -40,7 +40,7 @@
 
  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="60px">&nbsp;***My working tools...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">&nbsp;***My working tools...***
 <p align="left">
   
    <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">&nbsp;
