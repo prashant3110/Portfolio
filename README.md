@@ -23,7 +23,7 @@
 <p align="center">
   <em>
     Hello, I am Prashant a <b>final year</b> undergraduate from <a href="https://bmiet.net/"> <b>BM Institute Of Engineering & Technology</b>, Sonipat</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and <Br>who is <b>obsessed</b>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> and <Br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data.
   </em> 
   <br>
@@ -32,7 +32,7 @@
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;*****About me ....*****
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="60px">&nbsp;*****About me ....*****
 
 ✔ I’m currently learning about **Data Science**🥰<br>
 ✔ Selected in **AWS Machine Learning Scholarship Program**<br>
@@ -40,7 +40,7 @@
 
  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="60px">&nbsp;***My working tools...***
 <p align="left">
   
    <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">&nbsp;
@@ -66,7 +66,7 @@
   
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="60px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant3110&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="prashant" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=prashant3110&show_icons=true&locale=en&theme=blue-green" alt="prashant" width="410" /></p>
