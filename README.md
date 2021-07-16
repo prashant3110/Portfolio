@@ -22,7 +22,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Prashant a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>BM Institute Of Engineering & Technology</b>, Sonipat_ (" Wisdom is all wealth ")</a>. <br>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO4xwBJMxWoUfPSiAeN6KgzLx2WJFDYTXVQ&usqp=CAU
+    Hello, I am Prashant a <b>final year</b> undergraduate from <a href="https://bmiet.net/"> <b>BM Institute Of Engineering & Technology</b>, Sonipat</a>. <br>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlO4xwBJMxWoUfPSiAeN6KgzLx2WJFDYTXVQ&usqp=CAU
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
