@@ -43,24 +43,24 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
-   <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-   <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-   <img height="50" src="https://github.com/Kushal997-das/Kushal997-das/blob/80f47f81e4d4ef64f675e20e2cfc00d53f0fdedd/Profile%20generator/c-original.svg">
-   <img height="50" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/cplusplus-original.svg">
-   <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg">
-   <img height="50" src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg">
-   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png">
-   <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png">
-   <img height="50" src="https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/logos/html-5.svg">
-   <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
-   <img height="50" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/javascript-original.svg">
-   <img height="50" src="https://upload.wikimedia.org/wikipedia/de/0/0e/Django-logo.svg">
-   <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
-   <img height="50" src="https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/logos/pycharm.svg">
-   <img height="50" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sublimetext.svg">
-   <img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg">
-   <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-   <img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg">
+   <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">&nbsp;
+   <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">&nbsp;
+   <img height="50" src="https://github.com/Kushal997-das/Kushal997-das/blob/80f47f81e4d4ef64f675e20e2cfc00d53f0fdedd/Profile%20generator/c-original.svg">&nbsp;
+   <img height="50" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/cplusplus-original.svg">&nbsp;
+   <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy.svg">&nbsp;
+   <img height="50" src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg">&nbsp;
+   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png">&nbsp;
+   <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png">&nbsp;
+   <img height="50" src="https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/logos/html-5.svg">&nbsp;
+   <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">&nbsp;
+   <img height="50" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/javascript-original.svg">&nbsp;
+   <img height="50" src="https://upload.wikimedia.org/wikipedia/de/0/0e/Django-logo.svg">&nbsp;
+   <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">&nbsp;
+   <img height="50" src="https://raw.githubusercontent.com/leungwensen/svg-icon/master/dist/svg/logos/pycharm.svg">&nbsp;
+   <img height="50" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sublimetext.svg">&nbsp;
+   <img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg">&nbsp;
+   <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">&nbsp;
+   <img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg">&nbsp;
   
   
   
