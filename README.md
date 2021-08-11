@@ -10,7 +10,7 @@
 
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am PRASHANT </h1>
-<h3 align="center" color="blue">Aspiring Data Scientist </h3>
+<h3 align="center" color="blue">********************</h3>
 <p align="center">
  <a href="https://www.linkedin.com/in/prashant-959941166/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="lin_ovindu" height="50" width="50" /></a>  
  <a href = "https://github.com/prashant3110/"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="50" width="50" /></a>
