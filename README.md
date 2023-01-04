@@ -22,10 +22,8 @@
 
 <p align="center">
   <em>
-    Hello, I am Prashant a <b>final year</b> undergraduate from <a href="https://bmiet.net/"> <b>BM Institute Of Engineering & Technology</b>, Sonipat</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and <Br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data.
-  </em> 
+    Hello, I am Prashant
+   <em>
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
